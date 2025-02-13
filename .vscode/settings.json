@@ -1,0 +1,23 @@
+{
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "ffprobe",
+    "Herta",
+    "Kbps",
+    "Persistedstate",
+    "pinia",
+    "pycache",
+    "timemark",
+    "unplugin"
+  ],
+  "editor.fontFamily": "Iosevka, Cascadia Code, HYWenHei, Microsoft YaHei",
+  "editor.fontLigatures": "'ss02', 'ss20'"
+}
